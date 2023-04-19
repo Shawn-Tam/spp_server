@@ -1,0 +1,41 @@
+[server]2023/03/11 - 13:36:58.372	[34minfo[0m	E:/学习文件/大学毕业设计/gin-vue-admin/server/initialize/router.go:39	register swagger handler
+[server]2023/03/11 - 13:36:58.386	[34minfo[0m	E:/学习文件/大学毕业设计/gin-vue-admin/server/initialize/router.go:75	router register success
+[server]2023/03/11 - 13:36:58.395	[34minfo[0m	E:/学习文件/大学毕业设计/gin-vue-admin/server/core/server.go:36	server run success on 	{"address": ":8888"}
+[server]2023/03/11 - 16:06:59.292	[34minfo[0m	E:/学习文件/大学毕业设计/gin-vue-admin/server/initialize/router.go:39	register swagger handler
+[server]2023/03/11 - 16:06:59.304	[34minfo[0m	E:/学习文件/大学毕业设计/gin-vue-admin/server/initialize/router.go:70	router register success
+[server]2023/03/11 - 16:06:59.309	[34minfo[0m	E:/学习文件/大学毕业设计/gin-vue-admin/server/core/server.go:36	server run success on 	{"address": ":8888"}
+[server]2023/03/11 - 16:24:30.758	[34minfo[0m	E:/学习文件/大学毕业设计/gin-vue-admin/server/initialize/router.go:39	register swagger handler
+[server]2023/03/11 - 16:24:30.771	[34minfo[0m	E:/学习文件/大学毕业设计/gin-vue-admin/server/initialize/router.go:70	router register success
+[server]2023/03/11 - 16:24:30.783	[34minfo[0m	E:/学习文件/大学毕业设计/gin-vue-admin/server/core/server.go:36	server run success on 	{"address": ":8888"}
+[server]2023/03/11 - 16:36:34.336	[34minfo[0m	E:/学习文件/大学毕业设计/gin-vue-admin/server/initialize/router.go:39	register swagger handler
+[server]2023/03/11 - 16:36:34.350	[34minfo[0m	E:/学习文件/大学毕业设计/gin-vue-admin/server/initialize/router.go:70	router register success
+[server]2023/03/11 - 16:36:34.358	[34minfo[0m	E:/学习文件/大学毕业设计/gin-vue-admin/server/core/server.go:36	server run success on 	{"address": ":8888"}
+[server]2023/03/11 - 16:38:25.549	[34minfo[0m	E:/学习文件/大学毕业设计/gin-vue-admin/server/initialize/router.go:39	register swagger handler
+[server]2023/03/11 - 16:38:25.565	[34minfo[0m	E:/学习文件/大学毕业设计/gin-vue-admin/server/initialize/router.go:70	router register success
+[server]2023/03/11 - 16:38:25.575	[34minfo[0m	E:/学习文件/大学毕业设计/gin-vue-admin/server/core/server.go:36	server run success on 	{"address": ":8888"}
+[server]2023/03/11 - 16:40:16.193	[34minfo[0m	E:/学习文件/大学毕业设计/gin-vue-admin/server/initialize/router.go:39	register swagger handler
+[server]2023/03/11 - 16:40:16.211	[34minfo[0m	E:/学习文件/大学毕业设计/gin-vue-admin/server/initialize/router.go:70	router register success
+[server]2023/03/11 - 16:40:16.227	[34minfo[0m	E:/学习文件/大学毕业设计/gin-vue-admin/server/core/server.go:36	server run success on 	{"address": ":8888"}
+[server]2023/03/11 - 16:42:48.166	[34minfo[0m	E:/学习文件/大学毕业设计/gin-vue-admin/server/initialize/router.go:39	register swagger handler
+[server]2023/03/11 - 16:42:48.184	[34minfo[0m	E:/学习文件/大学毕业设计/gin-vue-admin/server/initialize/router.go:70	router register success
+[server]2023/03/11 - 16:42:48.192	[34minfo[0m	E:/学习文件/大学毕业设计/gin-vue-admin/server/core/server.go:36	server run success on 	{"address": ":8888"}
+[server]2023/03/11 - 17:01:04.867	[34minfo[0m	E:/学习文件/大学毕业设计/gin-vue-admin/server/initialize/router.go:39	register swagger handler
+[server]2023/03/11 - 17:01:04.887	[34minfo[0m	E:/学习文件/大学毕业设计/gin-vue-admin/server/initialize/router.go:70	router register success
+[server]2023/03/11 - 17:01:04.901	[34minfo[0m	E:/学习文件/大学毕业设计/gin-vue-admin/server/core/server.go:36	server run success on 	{"address": ":8888"}
+[server]2023/03/11 - 17:39:15.677	[34minfo[0m	E:/学习文件/大学毕业设计/gin-vue-admin/server/initialize/router.go:39	register swagger handler
+[server]2023/03/11 - 17:39:15.689	[34minfo[0m	E:/学习文件/大学毕业设计/gin-vue-admin/server/initialize/router.go:70	router register success
+[server]2023/03/11 - 17:39:15.695	[34minfo[0m	E:/学习文件/大学毕业设计/gin-vue-admin/server/core/server.go:36	server run success on 	{"address": ":8888"}
+[server]2023/03/11 - 17:42:26.819	[34minfo[0m	E:/学习文件/大学毕业设计/gin-vue-admin/server/initialize/router.go:39	register swagger handler
+[server]2023/03/11 - 17:42:26.834	[34minfo[0m	E:/学习文件/大学毕业设计/gin-vue-admin/server/initialize/router.go:70	router register success
+[server]2023/03/11 - 17:42:26.840	[34minfo[0m	E:/学习文件/大学毕业设计/gin-vue-admin/server/core/server.go:36	server run success on 	{"address": ":8888"}
+[server]2023/03/11 - 18:01:21.574	[34minfo[0m	E:/学习文件/大学毕业设计/gin-vue-admin/server/api/v1/system/sys_initdb.go:57	数据库无需初始化
+[server]2023/03/11 - 18:03:44.203	[34minfo[0m	E:/学习文件/大学毕业设计/gin-vue-admin/server/initialize/gorm.go:51	register table success
+[server]2023/03/11 - 18:03:44.209	[34minfo[0m	E:/学习文件/大学毕业设计/gin-vue-admin/server/initialize/router.go:39	register swagger handler
+[server]2023/03/11 - 18:03:44.214	[34minfo[0m	E:/学习文件/大学毕业设计/gin-vue-admin/server/initialize/router.go:70	router register success
+[server]2023/03/11 - 18:03:44.223	[34minfo[0m	E:/学习文件/大学毕业设计/gin-vue-admin/server/core/server.go:36	server run success on 	{"address": ":8888"}
+[server]2023/03/11 - 18:11:57.149	[34minfo[0m	E:/学习文件/大学毕业设计/gin-vue-admin/server/api/v1/system/sys_initdb.go:57	数据库无需初始化
+[server]2023/03/11 - 18:12:03.070	[34minfo[0m	E:/学习文件/大学毕业设计/gin-vue-admin/server/api/v1/system/sys_initdb.go:57	数据库无需初始化
+[server]2023/03/11 - 18:14:10.857	[34minfo[0m	E:/学习文件/大学毕业设计/gin-vue-admin/server/initialize/router.go:39	register swagger handler
+[server]2023/03/11 - 18:14:10.863	[34minfo[0m	E:/学习文件/大学毕业设计/gin-vue-admin/server/initialize/router.go:70	router register success
+[server]2023/03/11 - 18:14:10.867	[34minfo[0m	E:/学习文件/大学毕业设计/gin-vue-admin/server/core/server.go:36	server run success on 	{"address": ":8888"}
+[server]2023/03/11 - 18:14:13.652	[34minfo[0m	E:/学习文件/大学毕业设计/gin-vue-admin/server/api/v1/system/sys_initdb.go:57	前往初始化数据库

@@ -1,0 +1,4 @@
+[server]2023/03/10 - 16:23:28.699	[34minfo[0m	E:/学习文件/大学毕业设计/gin-vue-admin/server/initialize/router.go:39	register swagger handler
+[server]2023/03/10 - 16:23:28.718	[34minfo[0m	E:/学习文件/大学毕业设计/gin-vue-admin/server/initialize/router.go:75	router register success
+[server]2023/03/10 - 16:23:28.731	[34minfo[0m	E:/学习文件/大学毕业设计/gin-vue-admin/server/core/server.go:36	server run success on 	{"address": ":8888"}
+[server]2023/03/10 - 16:24:05.556	[34minfo[0m	E:/学习文件/大学毕业设计/gin-vue-admin/server/api/v1/system/sys_initdb.go:57	前往初始化数据库

@@ -1,3 +1,0 @@
-[server]2023/03/10 - 16:24:01.459	[31merror[0m	E:/学习文件/大学毕业设计/gin-vue-admin/server/api/v1/system/sys_user.go:56	登陆失败! 学生名不存在或者密码错误!	{"error": "db not init"}
-[server]2023/03/10 - 16:50:15.583	[31merror[0m	E:/学习文件/大学毕业设计/gin-vue-admin/server/api/v1/system/sys_menu.go:172	删除失败!	{"error": "此菜单存在子菜单不可删除"}
-[server]2023/03/10 - 16:50:22.869	[31merror[0m	E:/学习文件/大学毕业设计/gin-vue-admin/server/api/v1/system/sys_menu.go:172	删除失败!	{"error": "此菜单存在子菜单不可删除"}

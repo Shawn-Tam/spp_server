@@ -39,7 +39,8 @@ func RegisterTables() {
 		system.SysBaseMenuParameter{},
 		system.SysBaseMenuBtn{},
 		system.SysAuthorityBtn{},
-
+		system.SysTask{},
+		system.SysPractice{},
 		example.ExaFile{},
 		example.ExaFileChunk{},
 		example.ExaFileUploadAndDownload{},

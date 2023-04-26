@@ -1,0 +1,8 @@
+[server]2023/04/24 - 23:21:59.776	[34minfo[0m	E:/学习文件/大学毕业设计/spp_server/initialize/gorm.go:52	register table success
+[server]2023/04/24 - 23:21:59.782	[34minfo[0m	E:/学习文件/大学毕业设计/spp_server/initialize/router.go:39	register swagger handler
+[server]2023/04/24 - 23:21:59.788	[34minfo[0m	E:/学习文件/大学毕业设计/spp_server/initialize/router.go:70	router register success
+[server]2023/04/24 - 23:21:59.798	[34minfo[0m	E:/学习文件/大学毕业设计/spp_server/core/server.go:36	server run success on 	{"address": ":8888"}
+[server]2023/04/24 - 23:23:24.278	[34minfo[0m	E:/学习文件/大学毕业设计/spp_server/initialize/gorm.go:52	register table success
+[server]2023/04/24 - 23:23:24.282	[34minfo[0m	E:/学习文件/大学毕业设计/spp_server/initialize/router.go:39	register swagger handler
+[server]2023/04/24 - 23:23:24.288	[34minfo[0m	E:/学习文件/大学毕业设计/spp_server/initialize/router.go:70	router register success
+[server]2023/04/24 - 23:23:24.297	[34minfo[0m	E:/学习文件/大学毕业设计/spp_server/core/server.go:36	server run success on 	{"address": ":8888"}

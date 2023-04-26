@@ -1,0 +1,4 @@
+[server]2023/04/26 - 21:35:18.160	[34minfo[0m	E:/学习文件/大学毕业设计/spp_server/initialize/gorm.go:52	register table success
+[server]2023/04/26 - 21:35:18.165	[34minfo[0m	E:/学习文件/大学毕业设计/spp_server/initialize/router.go:39	register swagger handler
+[server]2023/04/26 - 21:35:18.170	[34minfo[0m	E:/学习文件/大学毕业设计/spp_server/initialize/router.go:70	router register success
+[server]2023/04/26 - 21:35:18.182	[34minfo[0m	E:/学习文件/大学毕业设计/spp_server/core/server.go:36	server run success on 	{"address": ":8888"}
